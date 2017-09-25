@@ -46,6 +46,7 @@ namespace SoapcalProvider.Tests
         {
             //arr            
             double expected = 56;
+
             //act
             double actual = s.Subtract(64, 8);
 
