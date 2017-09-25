@@ -58,6 +58,7 @@ namespace SoapcalProvider.Tests
         public void MultiplyTest()
         {
             //arr          
+
             double expected = 32;
             //act
             double actual = s.Multiply(4, 8);
